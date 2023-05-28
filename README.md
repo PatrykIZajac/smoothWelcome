@@ -10,4 +10,5 @@ offcourse all the images can be different - it depends on your preferences.
 
 
 ## Demo
-![Demo](https://i.imgur.com/u3qnBWj.gifv)
+
+![Demo](https://imgur.com/u3qnBWj)
