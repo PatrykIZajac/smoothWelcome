@@ -30,9 +30,9 @@ String getCurrentTitle(int currentIndex) {
 String getCurrentSubtext(int currentIndex) {
   switch (currentIndex) {
     case 0:
-      return 'We don`t use any mass market ladning page builder, like Unbounce. All custom work here!';
+      return 'We don`t use any mass market landing page builder, like Unbounce. All custom work here!';
     case 1:
-      return 'We know how much time people sepnd on their phones. We design and build with that mind.';
+      return 'We know how much time people spend on their phones. We design and build with that mind.';
     case 2:
       return 'We take brand assets, spice them up and design with your customer in mind.';
     default:
